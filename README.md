@@ -3,9 +3,11 @@
 
 ## 👥 Team Members
 
-- Name (@github_handle) - Role/Responsibility
-- Name (@github_handle) - Role/Responsibility
-- Name (@github_handle) - Role/Responsibility
+- Ai Nakayama (@ainakayama90) - Role/Responsibility
+- Akyla Imanalieva (@github_handle) - Role/Responsibility
+- Aston Chia (@AstonChia99) - Role/Responsibility
+- Ririka Noda (@RirikaNoda) - Role/Responsibility
+- Mami Umeki (@github_handle) - Role/Responsibility
 
 *(Add more members as needed)*
 
