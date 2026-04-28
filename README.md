@@ -13,8 +13,7 @@
 
 ## ❓ Research Question & 🎯 Hypothesis
 
-> State your central research question clearly and concisely
-
+Tentative topic: How do geopolitical conflicts reshape LNG trade
 - Hypothesis 1
 - Hypothesis 2
 - Hypothesis 3
