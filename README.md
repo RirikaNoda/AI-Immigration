@@ -7,7 +7,7 @@
 - Akyla Imanalieva (@github_handle) - Role/Responsibility
 - Aston Chia (@AstonChia99) - Role/Responsibility
 - Ririka Noda (@RirikaNoda) - Role/Responsibility
-- Mami Umeki (@github_handle) - Role/Responsibility
+- Mami Umeki (@mamiumeki2001) - Role/Responsibility
 
 *(Add more members as needed)*
 
