@@ -4,7 +4,7 @@
 ## 👥 Team Members
 
 - Ai Nakayama (@ainakayama90) - Role/Responsibility
-- Akyla Imanalieva (@github_handle) - Role/Responsibility
+- Akyla Imanalieva (@akylaimanalieva) - Role/Responsibility
 - Aston Chia (@AstonChia99) - Role/Responsibility
 - Ririka Noda (@RirikaNoda) - Role/Responsibility
 - Mami Umeki (@mamiumeki2001) - Role/Responsibility
