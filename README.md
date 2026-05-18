@@ -22,7 +22,7 @@ Tentative topic: How do geopolitical conflicts reshape LNG trade
 
 | Source | Description | URL |
 |--------|-------------|-----|
-| World Bank | Brief description | [World Bank Open Data](https://data.worldbank.org/) |
+| Marine Traffic | Live worldwide marine traffic reporting | (https://www.marinetraffic.org/MALACCA%20STRAIT/ship-traffic-tracker) |
 | IMF | Brief description | [IMF Data Portal](https://www.imf.org/en/Data) |
 
 ### Data Sources Details
