@@ -29,9 +29,9 @@ Aim to answer:
 
 ### Data Sources Details
 
-https://aisstream.io/ 
-https://github.com/aisstream/Projects-Using-aisstream.io
-CSV file for Port of Singapore available on website in abovementioned 
+|https://aisstream.io/| 
+|https://github.com/aisstream/Projects-Using-aisstream.io|
+|CSV file for Port of Singapore available on website in abovementioned| 
 
 #### D.1 World Bank  
 **Variables:** e.g., NY.GDP.MKTP.CD, SE.PRM.CMPT.ZS
