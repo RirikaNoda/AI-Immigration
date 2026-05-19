@@ -9,14 +9,14 @@
 - Ririka Noda (@RirikaNoda) - Role/Responsibility
 - Mami Umeki (@mamiumeki2001) - Role/Responsibility
 
-*(Add more members as needed)*
 
 ## ❓ Research Question & 🎯 Hypothesis
 
-Tentative topic: How do geopolitical conflicts reshape LNG trade
-- Hypothesis 1
-- Hypothesis 2
-- Hypothesis 3
+Topic: How the US-Iran conflict reshape oil trade routes 
+Aim to answer: 
+1)        Did tanker traffic through the Strait of Malacca change?
+2)        Which chokepoints absorbed rerouted flows?
+3)        Which exporters replaced Gulf crude?
 
 ## 📁 Data Sources
 
