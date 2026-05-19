@@ -3,11 +3,11 @@
 
 ## 👥 Team Members
 
-- Ai Nakayama (@ainakayama90) - Role/Responsibility
-- Akyla Imanalieva (@akylaimanalieva) - Role/Responsibility
-- Aston Chia (@AstonChia99) - Role/Responsibility
-- Ririka Noda (@RirikaNoda) - Role/Responsibility
-- Mami Umeki (@mamiumeki2001) - Role/Responsibility
+- Ai Nakayama (@ainakayama90) - Reader and Subject Specialist  
+- Akyla Imanalieva (@akylaimanalieva) - Coding Specialist  
+- Aston Chia (@AstonChia99) - Data Specialist  
+- Ririka Noda (@RirikaNoda) - Reader and Subject Specialist 
+- Mami Umeki (@mamiumeki2001) - Data Specialist 
 
 
 ## ❓ Research Question & 🎯 Hypothesis
@@ -26,12 +26,6 @@ Aim to answer:
 | Marine Traffic | Live worldwide marine traffic reporting | (https://www.marinetraffic.org/MALACCA%20STRAIT/ship-traffic-tracker) |
 | IMF | Brief description | [IMF Data Portal](https://www.imf.org/en/Data) |
 |Port of Singapore Data|Port of Singapore, Tanker Arrival, Total, Monthly up till May 2026|https://data.gov.sg/datasets/d_9adb5ace517591edd9a8c88291ac1f1c/view| 
-
-### Data Sources Details
-
-|https://aisstream.io/| 
-|https://github.com/aisstream/Projects-Using-aisstream.io|
-|CSV file for Port of Singapore available on website in abovementioned| 
 
 #### D.1 World Bank  
 **Variables:** e.g., NY.GDP.MKTP.CD, SE.PRM.CMPT.ZS
