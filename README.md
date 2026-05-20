@@ -1,4 +1,4 @@
-# How Geopolitical Conflict reshapes Global Energy Trade
+# How Geopolitical Conflict Reshapes Global Energy Trade
 ## How the Iran conflict reshaped Global Oil Shipping Routes 
 
 
