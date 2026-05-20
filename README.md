@@ -27,6 +27,7 @@ Aim to answer:
 | Marine Traffic | Live worldwide marine traffic reporting | (https://www.marinetraffic.org/MALACCA%20STRAIT/ship-traffic-tracker) |
 | IMF | Brief description | [IMF Data Portal](https://www.imf.org/en/Data) |
 |Port of Singapore Data|Port of Singapore, Tanker Arrival, Total, Monthly up till May 2026|https://data.gov.sg/datasets/d_9adb5ace517591edd9a8c88291ac1f1c/view| 
+|Open AIS Data|AISdb|https://github.com/AISViz/AISdb|
 
 #### D.1 World Bank  
 **Variables:** e.g., NY.GDP.MKTP.CD, SE.PRM.CMPT.ZS
