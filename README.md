@@ -40,7 +40,7 @@ Aim to answer:
 **Variables:** e.g., Consumer Price Index, Interest Rates
 
 **Granularity:** e.g., Quarterly data by Region
------------
+
 
 #### D.1 AIS vessel tracking data   
 **Variables:** e.g., not sure 
