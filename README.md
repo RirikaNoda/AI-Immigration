@@ -41,6 +41,28 @@ Aim to answer:
 
 **Granularity:** e.g., Quarterly data by Region
 
+
+#### D.1 AIS vessel tracking data   
+**Variables:** e.g., not sure 
+
+**Granularity:** e.g., Daily data of the selected area
+
+#### D.2 Monthly oil exports of Singapore 
+**Variables:** e.g., Crude & refined oils
+
+**Granularity:** e.g., Monthly data of Singapore
+
+#### D.3 Monthly oil imports of Singapore 
+**Variables:** e.g., Crude & refined oils
+
+**Granularity:** e.g., Monthly data of Singapore
+
+#### D.4 Crude pricing data  Crude oil price (USD/bbl) - Asia
+**Variables:** e.g., Asia
+
+**Granularity:** e.g., Manthly data by region
+
+
 ## 📂 Folder Structure
 
 ### Folder Structure Notes
