@@ -1,17 +1,9 @@
 from libraries import *
 
-'''import warnings 
-import urllib3
-
-import requests
-import pandas as pd
-import numpy as np 
-from io import StringIO'''
-
-from data_loader_singapore import *
-from data_loader_oil import *
-from data_loader_pipeline import *
-from data_loader_malacca import *
+from dataloader_singapore import *
+from dataloader_oil import *
+from dataloader_pipeline import *
+from dataloader_malacca import *
 
 print("check 1")
 
@@ -28,18 +20,7 @@ def _warn_fallback(name: str, reasons: str = ""):
     warnings.warn(msg, UserWarning, stacklevel=3)
     print(msg)
 
-# Data tracking for the Singapore imports 
 
-
-#Oil Prices 
-
-
-#Pipeline capacity 
-
-#Malaca tankers
-
- 
-#master loader
 def load_all() -> dict:
     """
     Convenience function: loads all datasets and returns them in a dict.
