@@ -75,4 +75,4 @@ def load_malacca_traffic() -> pd.DataFrame:
     )
     return df
 
-print("Checker 9") 
+print("Check point for load_malacca_traffic") 

@@ -1,13 +1,12 @@
 from libraries import *
 
+# Sourcing data from seperate files
 from dataloader_singapore import *
 from dataloader_oil import *
 from dataloader_pipeline import *
 from dataloader_malacca import *
 
-print("check 1")
-
-
+#Main data processing fucntions
 def _date_range(start="2019-01", end="2025-12", freq="MS"):
     return pd.date_range(start=start, end=end, freq=freq)
 
@@ -20,15 +19,10 @@ def _warn_fallback(name: str, reasons: str = ""):
     warnings.warn(msg, UserWarning, stacklevel=3)
     print(msg)
 
-
+#Load of the entire code
 def load_all() -> dict:
     """
     Convenience function: loads all datasets and returns them in a dict.
- 
-    Usage:
-        from data_loader import load_all
-        data = load_all()
-        df_prices = data["oil_prices"]
     """
     print("Loading all datasets...\n")
     return {

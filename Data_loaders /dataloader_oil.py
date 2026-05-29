@@ -54,7 +54,8 @@ def load_oil_prices() -> pd.DataFrame:
         "oil-prices-world-bank-pink-sheets.xlsx"
     )
     return _fallback_oil_prices()
- 
+
+print("Check point for load_oil_prices")
  
 def load_oil_prices_csv(path: str) -> pd.DataFrame:
     if path.endswith(".xlsx"):
@@ -69,6 +70,7 @@ def load_oil_prices_csv(path: str) -> pd.DataFrame:
     long["price_usd_bbl"] = pd.to_numeric(long["price_usd_bbl"], errors="coerce")
     return long.dropna().sort_values("date")
  
+print("Check point for load_oil_prices_csv")
  
 def _fallback_oil_prices() -> pd.DataFrame:
     """
@@ -101,4 +103,4 @@ def _fallback_oil_prices() -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-print("Checker 7")
+print("Check point for _fallback_oil_prices")

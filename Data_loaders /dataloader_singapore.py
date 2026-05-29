@@ -50,7 +50,7 @@ def load_singapore_imports() -> pd.DataFrame:
     return _fallback_singapore_imports()
     
 
-print("Check 2")
+print("Check point for load_singapore_imports")
 
 def load_singapore_imports_csv(path: str) -> pd.DataFrame:
     raw = pd.read_csv(path)
@@ -68,7 +68,7 @@ def load_singapore_imports_csv(path: str) -> pd.DataFrame:
         ["date", "country", "import_value"]
         ].sort_values("date")
     
-print("Check 3")
+print("Check point for load_singapore_imports_csv")
 
 def _fallback_singapore_imports() -> pd.DataFrame:
     """
@@ -102,7 +102,7 @@ def _fallback_singapore_imports() -> pd.DataFrame:
             rows.append({"date": d, "country": region, "import_value": round(max(v, 0), 2)})
     return pd.DataFrame(rows)
 
-print("check 4")
+print("Check point for _fallback_singapore_imports")
 
  
 def load_singapore_exports() -> pd.DataFrame:
@@ -143,7 +143,7 @@ def load_singapore_exports() -> pd.DataFrame:
     )
     return _fallback_singapore_exports()
  
-print("Checker 5")
+print("Check point for load_singapore_exports")
 
 def _fallback_singapore_exports() -> pd.DataFrame:
     """
@@ -173,4 +173,4 @@ def _fallback_singapore_exports() -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-print("checker 6")
+print("Check point for _fallback_singapore_exports")

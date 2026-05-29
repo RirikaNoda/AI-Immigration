@@ -71,4 +71,4 @@ def load_pipeline_data() -> pd.DataFrame:
     return pd.DataFrame(rows)
  
 
-print("Checker 8")
+print("Check point for pipeline data")
