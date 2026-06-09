@@ -9,7 +9,7 @@ s
 - Akyla Imanalieva (@akylaimanalieva) - Coding Specialist  
 - Aston Chia (@AstonChia99) - Data Specialist  
 - Ririka Noda (@RirikaNoda) - Reader and Subject Specialist 
-- Mami Umeki (@mamiumeki2001) - Data Specialist 
+- Mami Umeki (@mamiumeki01) - Data Specialist 
 
 
 ## ❓ Research Question & 🎯 Hypothesis
